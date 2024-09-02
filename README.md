@@ -22,4 +22,4 @@ bot = TeleBot('U BOT TOKEN')
 python3 main.py
 
 ```
-## ~~ Thanks for Watching ~~
+## ~~Thanks for Watching~~
