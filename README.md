@@ -20,6 +20,5 @@ bot = TeleBot('U BOT TOKEN')
 ## Run main.py
 ```
 python3 main.py
-
 ```
 ## ~~Thanks for Watching~~
