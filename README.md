@@ -10,11 +10,16 @@ Simple Telegram bot with appointment with CRUD functions based on python and SQL
 
 ```
 git clone https://github.com/vo6i/Appointment-Telegram-Bot.git
+cd Appointment-Telegram-Bot 
 pip install -r requirements.txt
 ```
-## Put your Telegram Bot TOKEN in main.py & run
-
+## Put your Telegram Bot TOKEN in main.py 
+```
+bot = TeleBot('U BOT TOKEN')
+```
+## Run main.py
 ```
 python3 main.py
 
 ```
+## ~~ Thanks for Watching ~~
