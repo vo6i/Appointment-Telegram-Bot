@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Simple Python Sqlite3 Telegram Bot" src="https://github.com/vo6i/Appointment-Telegram-Bot/blob/main/Screenshot_20241004-051546_1.jpg" />
+</p>
+
 # Appointment-Telegram-Bot
 Simple Telegram bot with appointment with CRUD functions based on python and SQLite3
 ![](https://github.com/vo6i/Appointment-Telegram-Bot/blob/main/Screenshot_20240901-201812_2.jpg) 
